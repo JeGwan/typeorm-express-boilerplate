@@ -1,0 +1,17 @@
+# mac os
+.DS_Store
+# packages
+node_modules
+# environment variable
+.env
+# editor made
+.vscode
+# pm2 config file
+ecosystem.config.js
+# custom 
+test.*
+*.log
+# public served files
+public/
+# typeorm config (db info)
+ormconfig.js
